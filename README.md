@@ -1,16 +1,70 @@
-## Hi there 👋
+# ¡Hola Mundo! Soy Sebastián García 👋
 
-<!--
-**Bastian1133/Bastian1133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Informática en UPIICSA - IPN.
 
-Here are some ideas to get you started:
+💻 Me interesa el desarrollo Backend, especialmente con Java y el ecosistema Spring. Actualmente me encuentro fortaleciendo mis conocimientos en desarrollo de APIs, bases de datos y arquitectura de software mientras construyo proyectos personales y académicos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+
+**Lenguajes**
+
+Java • Python • PHP • Kotlin • C#
+
+**Backend**
+
+FastAPI • APIs REST
+
+**Frontend**
+
+HTML5 • CSS3 • JavaScript • SASS
+
+**Bases de datos**
+
+PostgreSQL • SQL Server • Sybase • MySQL • Firebase • Supabase
+
+**Herramientas**
+
+Git • GitHub
+
+---
+
+## Proyectos destacados
+
+### 🤖 Chatbot UPIICSA
+Sistema basado en arquitectura RAG para responder consultas sobre el servicio social utilizando documentación institucional.
+
+**Tecnologías:** FastAPI · PostgreSQL · pgvector · LangChain · Gemini · HTML · CSS · JavaScript
+
+➡️ https://github.com/Bastian1133/chatbot_UPIICSA
+
+---
+
+### ☕ Banco de México (Servicio Social)
+
+Participé en el mantenimiento y modernización de aplicaciones Java para el procesamiento de información financiera, trabajando con Java 21, SQL y bases de datos Sybase.
+
+> Por motivos de confidencialidad, el código fuente no es público.
+
+---
+
+### 🏠 Plataforma de Bienes Raíces
+
+Aplicación web Full Stack desarrollada con PHP bajo un enfoque de Programación Orientada a Objetos.
+
+**Tecnologías:** PHP · MySQL · HTML · CSS · JavaScript
+
+➡️ https://github.com/Bastian1133/Bienes-Raices-POO
+
+---
+
+## Actualmente aprendiendo
+
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+
+---
+
+## Contacto
+
+📧 garcia.sebastian1133@gmail.com
