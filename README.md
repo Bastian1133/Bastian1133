@@ -2,13 +2,13 @@
 
 🎓 Estudiante de Ingeniería en Informática en UPIICSA - IPN.
 
-💻 Me interesa el desarrollo Backend, especialmente con Java y el ecosistema Spring. Actualmente me encuentro fortaleciendo mis conocimientos en desarrollo de APIs, bases de datos y arquitectura de software mientras construyo proyectos personales y académicos.
+💻 Me interesa el desarrollo Backend, especialmente con Python y Java con el ecosistema Spring. Actualmente me encuentro fortaleciendo mis conocimientos en desarrollo de APIs, bases de datos y arquitectura de software mientras construyo proyectos personales y académicos.
 
 ## Tecnologías
 
 **Lenguajes**
 
-Java • Python • PHP • Kotlin • C#
+Java • Python • PHP • Kotlin
 
 **Backend**
 
